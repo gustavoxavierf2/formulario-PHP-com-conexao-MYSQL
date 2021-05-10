@@ -1,0 +1,59 @@
+
+div{
+	margin: 0px 300px;
+}
+body{
+	margin: 0;
+	background-image:url(https://images.alphacoders.com/736/thumb-1920-736461.png);
+	background-size: 100%;
+}
+form{
+	border: black solid 2.5px;
+	height: 400px;
+}
+form input{
+	width: 550px;
+	height: 25px;
+}
+form input:hover{
+	background-color: #F0E68C;
+}
+form button{
+	font-family: cursive;
+	border: solid black 2px;
+	margin-left: 400px;
+	width: 80px;
+	height: 25px;
+}
+form button:hover{
+	cursor: pointer;
+	background-color: #00FF7F;
+	box-shadow: 0 0 15px #00FF7F;
+}
+.erro{
+	font-family: cursive;
+	text-align: left;
+	font-size: 20px;
+	color: white;
+	background: rgba(0, 0, 0, 0.4);
+	margin-right: 700px;
+}
+.erro_2{
+	font-family: cursive;
+	text-align: left;
+	font-size: 20px;
+	color: white;
+	background: rgba(0, 0, 0, 0.4);
+	margin-right: 475px;
+}
+header{
+	background: rgba(0, 0, 0, 0.4);		
+}
+header h1{
+	margin: 0;
+}
+select{
+	width: 550px;
+	height: 25px;
+}
+	
